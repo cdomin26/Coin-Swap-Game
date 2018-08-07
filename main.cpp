@@ -206,7 +206,7 @@ int main()
     pHead = pTemp;
     
     // Display identifying information, the instructions, and the initial board, and initial list.
-    displayIdentifyingInformation();
+    //displayIdentifyingInformation();
     displayInstructions();
     displayBoard( board);
     displayList(pHead);
